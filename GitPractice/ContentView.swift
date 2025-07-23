@@ -18,6 +18,7 @@ struct ContentView: View {
         .padding()
         //comment to test git changes
         //another comment to test git changes again
+        Text("Change 3")
     }
 }
 
